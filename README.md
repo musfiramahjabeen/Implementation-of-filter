@@ -18,8 +18,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-### Developed By   :KARTHIKEYAN R
-### Register Number:212222240046
+### Developed By   :MUSFIRA MAHJABEEN M
+### Register Number:212223230130
 
 ## Smoothing Filters
 ### Using Averaging Filter
